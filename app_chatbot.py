@@ -394,7 +394,7 @@ with st.sidebar:
                     font-size:22px;box-shadow:0 4px 16px rgba(79,157,105,0.4);">🛍️</div>
         <div>
           <div style="font-family:'Fraunces',serif;font-size:1.05rem;font-weight:600;color:#e8f5ed;">
-            Chatbot Assistant</div>
+            AskChat-Chatbot Assistant</div>
           <div style="font-size:0.67rem;color:#4cc9b0;font-weight:500;
                       display:flex;align-items:center;gap:4px;margin-top:2px;">
             <span style="width:5px;height:5px;background:#4cc9b0;border-radius:50%;
@@ -472,7 +472,7 @@ st.markdown("""
 <div class="chat-header">
   <div class="bot-avatar-header">🛍️</div>
   <div>
-    <p class="bot-name">Chatbot Assistant</p>
+    <p class="bot-name">AskChat-Chatbot Assistant</p>
     <p class="bot-status">
       <span class="status-dot"></span>
       Online · Siap membantu
@@ -489,7 +489,7 @@ with st.container():
           <div class="empty-hero">🛍️</div>
           <div class="empty-title">Selamat datang!</div>
           <div class="empty-sub">
-            Saya Chatbot Assistant, siap menjawab pertanyaan seputar belanja online Anda —
+            Saya AskChat, siap menjawab pertanyaan seputar belanja online Anda —
             dari pengiriman, pembayaran, hingga pengembalian barang.
           </div>
           <div class="quick-label">Coba tanyakan</div>
