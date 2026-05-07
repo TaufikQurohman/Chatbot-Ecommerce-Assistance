@@ -1,0 +1,199 @@
+{
+  "faq": [
+    {
+      "id": 1,
+      "kategori": "Pengiriman",
+      "pertanyaan": "Berapa lama waktu pengiriman pesanan saya?",
+      "variasi": [
+        "Kapan pesanan saya sampai?",
+        "Estimasi pengiriman berapa hari?",
+        "Berapa lama paket dikirim?",
+        "Pengiriman butuh waktu berapa lama?",
+        "Kapan barang saya tiba?"
+      ],
+      "jawaban": "Waktu pengiriman tergantung lokasi tujuan:\n- **Jabodetabek**: 1–2 hari kerja\n- **Pulau Jawa**: 2–3 hari kerja\n- **Luar Jawa**: 3–7 hari kerja\n- **Papua & Kepulauan Terpencil**: 7–14 hari kerja\n\nWaktu dihitung setelah pembayaran dikonfirmasi dan pesanan diproses (biasanya 1x24 jam)."
+    },
+    {
+      "id": 2,
+      "kategori": "Pengiriman",
+      "pertanyaan": "Apakah ada layanan pengiriman ekspres?",
+      "variasi": [
+        "Bisa kirim hari ini?",
+        "Ada pengiriman same day?",
+        "Ekspres ada tidak?",
+        "Pengiriman cepat tersedia?",
+        "Mau kirim secepatnya bisa?"
+      ],
+      "jawaban": "Ya, kami menyediakan layanan pengiriman ekspres:\n- **Same Day Delivery**: Pesan sebelum pukul 10.00 WIB, barang tiba di hari yang sama (khusus Jabodetabek)\n- **Next Day Delivery**: Barang tiba keesokan harinya (tersedia di kota-kota besar)\n\nLayanan ekspres dikenakan biaya tambahan sesuai jarak. Pilih opsi ini saat checkout."
+    },
+    {
+      "id": 3,
+      "kategori": "Pengiriman",
+      "pertanyaan": "Bagaimana cara melacak pesanan saya?",
+      "variasi": [
+        "Di mana posisi paket saya sekarang?",
+        "Cara cek resi pengiriman?",
+        "Tracking pesanan gimana?",
+        "Nomor resi saya di mana?",
+        "Cara pantau pengiriman?"
+      ],
+      "jawaban": "Cara melacak pesanan:\n1. Login ke akun Anda di aplikasi atau website kami\n2. Buka menu **Pesanan Saya** → pilih pesanan yang ingin dilacak\n3. Klik tombol **Lacak Pesanan** untuk melihat status real-time\n\nAlternatif: Nomor resi akan dikirim via email & SMS setelah barang diambil kurir. Masukkan nomor resi di website ekspedisi terkait (JNE, J&T, SiCepat, dll)."
+    },
+    {
+      "id": 4,
+      "kategori": "Pembayaran",
+      "pertanyaan": "Metode pembayaran apa saja yang tersedia?",
+      "variasi": [
+        "Bisa bayar pakai apa?",
+        "Cara pembayaran yang diterima?",
+        "Apakah bisa bayar COD?",
+        "Transfer bank bisa?",
+        "Dompet digital apa yang diterima?"
+      ],
+      "jawaban": "Kami menerima berbagai metode pembayaran:\n- **Transfer Bank**: BCA, Mandiri, BNI, BRI\n- **Dompet Digital**: GoPay, OVO, DANA, ShopeePay, LinkAja\n- **Kartu Kredit/Debit**: Visa, Mastercard (cicilan 0% tersedia)\n- **COD (Bayar di Tempat)**: Tersedia di area tertentu\n- **Virtual Account**: Semua bank utama\n- **Paylater**: Kredivo, Akulaku"
+    },
+    {
+      "id": 5,
+      "kategori": "Pembayaran",
+      "pertanyaan": "Apakah pembayaran saya aman?",
+      "variasi": [
+        "Transaksi aman tidak?",
+        "Data kartu kredit saya terjamin?",
+        "Keamanan pembayaran bagaimana?",
+        "Takut penipuan, aman tidak?",
+        "Sistem keamanan transaksi?"
+      ],
+      "jawaban": "Keamanan transaksi adalah prioritas kami:\n- Semua transaksi dienkripsi dengan **SSL 256-bit**\n- Data kartu kredit tidak disimpan di server kami\n- Sistem pembayaran berstandar **PCI DSS**\n- **Proteksi Pembeli**: Dana hanya diteruskan ke penjual setelah barang diterima\n- Tersedia autentikasi dua faktor (2FA) untuk keamanan akun"
+    },
+    {
+      "id": 6,
+      "kategori": "Pembayaran",
+      "pertanyaan": "Bagaimana jika pembayaran saya gagal?",
+      "variasi": [
+        "Transaksi gagal apa yang harus dilakukan?",
+        "Pembayaran tidak berhasil kenapa?",
+        "Error saat bayar bagaimana?",
+        "Uang sudah dipotong tapi pesanan tidak masuk?",
+        "Gagal bayar solusinya apa?"
+      ],
+      "jawaban": "Jika pembayaran gagal:\n1. **Cek saldo/limit** kartu atau dompet digital Anda\n2. **Coba metode pembayaran lain** yang tersedia\n3. Jika uang sudah terpotong namun pesanan tidak masuk, **jangan khawatir** — dana akan otomatis dikembalikan dalam 1–3 hari kerja\n4. Hubungi CS kami di chat ini atau email support@toko.com dengan menyertakan bukti transaksi"
+    },
+    {
+      "id": 7,
+      "kategori": "Pengembalian",
+      "pertanyaan": "Bagaimana cara mengembalikan barang?",
+      "variasi": [
+        "Prosedur retur barang?",
+        "Mau kembalikan produk bagaimana?",
+        "Return barang caranya?",
+        "Barang tidak sesuai mau dikembalikan?",
+        "Refund barang prosesnya gimana?"
+      ],
+      "jawaban": "Prosedur pengembalian barang:\n1. Ajukan permintaan retur di menu **Pesanan Saya** dalam **7 hari** setelah barang diterima\n2. Pilih alasan pengembalian dan upload foto/video bukti kondisi barang\n3. Tunggu persetujuan tim kami (maks. 1x24 jam)\n4. Kemas barang dengan aman dan kirim ke alamat gudang kami\n5. Dana dikembalikan dalam **3–5 hari kerja** setelah barang diterima"
+    },
+    {
+      "id": 8,
+      "kategori": "Pengembalian",
+      "pertanyaan": "Produk apa saja yang bisa dikembalikan?",
+      "variasi": [
+        "Semua barang bisa diretur?",
+        "Syarat pengembalian barang apa?",
+        "Produk elektronik bisa dikembalikan?",
+        "Makanan bisa diretur?",
+        "Kondisi barang yang boleh dikembalikan?"
+      ],
+      "jawaban": "Barang dapat dikembalikan jika:\n✅ Barang rusak/cacat saat diterima\n✅ Barang tidak sesuai deskripsi\n✅ Ukuran atau warna salah\n✅ Barang tidak lengkap\n\n❌ **Tidak dapat dikembalikan**:\n- Produk makanan & minuman\n- Produk kesehatan & kecantikan yang sudah dibuka\n- Pakaian dalam & swimwear\n- Produk digital (voucher, software)\n- Barang yang sudah digunakan"
+    },
+    {
+      "id": 9,
+      "kategori": "Akun",
+      "pertanyaan": "Bagaimana cara mendaftar akun baru?",
+      "variasi": [
+        "Cara buat akun?",
+        "Registrasi bagaimana?",
+        "Sign up caranya?",
+        "Daftar akun baru gimana?",
+        "Cara membuat akun di sini?"
+      ],
+      "jawaban": "Cara membuat akun baru:\n1. Klik tombol **Daftar** di pojok kanan atas\n2. Masukkan **email aktif** atau **nomor HP**\n3. Buat **password** yang kuat (minimal 8 karakter, kombinasi huruf & angka)\n4. Verifikasi dengan kode OTP yang dikirim ke email/HP\n5. Lengkapi profil (nama, alamat) untuk pengalaman belanja yang lebih baik\n\nBisa juga daftar menggunakan akun **Google** atau **Facebook** untuk proses lebih cepat."
+    },
+    {
+      "id": 10,
+      "kategori": "Akun",
+      "pertanyaan": "Lupa password, bagaimana cara reset?",
+      "variasi": [
+        "Password saya lupa gimana?",
+        "Cara ubah password?",
+        "Tidak bisa login karena lupa sandi",
+        "Reset kata sandi bagaimana?",
+        "Forgot password caranya?"
+      ],
+      "jawaban": "Cara reset password:\n1. Klik **Lupa Password** di halaman login\n2. Masukkan **email** atau **nomor HP** yang terdaftar\n3. Cek email/SMS Anda untuk **link reset password**\n4. Klik link tersebut dan buat password baru\n5. Login dengan password baru Anda\n\n⚠️ Link reset password berlaku selama **30 menit**. Jika tidak menerima email, cek folder spam atau hubungi CS kami."
+    },
+    {
+      "id": 11,
+      "kategori": "Produk",
+      "pertanyaan": "Apakah produk yang dijual original?",
+      "variasi": [
+        "Barang asli atau palsu?",
+        "Jaminan keaslian produk?",
+        "Produk ori atau KW?",
+        "Garansi keaslian ada?",
+        "Barang bergaransi resmi?"
+      ],
+      "jawaban": "Semua produk yang kami jual **100% original dan bergaransi resmi**:\n- Kami adalah **distributor resmi** atau bekerja sama langsung dengan brand\n- Setiap produk dilengkapi **sertifikat keaslian** dan **kartu garansi resmi**\n- Garansi resmi 1–2 tahun untuk produk elektronik\n- **Garansi Uang Kembali** jika terbukti produk tidak original\n\nJika ragu, cek hologram/stiker keaslian pada produk yang Anda terima."
+    },
+    {
+      "id": 12,
+      "kategori": "Produk",
+      "pertanyaan": "Bagaimana cara memesan produk?",
+      "variasi": [
+        "Cara beli barang?",
+        "Proses pembelian bagaimana?",
+        "Order caranya gimana?",
+        "Langkah-langkah pemesanan?",
+        "Cara belanja di sini?"
+      ],
+      "jawaban": "Cara memesan produk:\n1. **Cari produk** yang diinginkan via kolom pencarian atau kategori\n2. Pilih **varian** (ukuran, warna, dll) jika tersedia\n3. Klik **Tambah ke Keranjang** atau **Beli Sekarang**\n4. Periksa ringkasan pesanan dan **isi alamat pengiriman**\n5. Pilih **metode pengiriman** dan **metode pembayaran**\n6. Klik **Bayar** dan selesaikan pembayaran\n7. Pesanan akan diproses dalam 1x24 jam setelah pembayaran dikonfirmasi"
+    },
+    {
+      "id": 13,
+      "kategori": "Promo",
+      "pertanyaan": "Bagaimana cara menggunakan kode voucher?",
+      "variasi": [
+        "Cara pakai kode promo?",
+        "Voucher diskon dimasukkan di mana?",
+        "Kode kupon cara pakainya?",
+        "Input kode voucher bagaimana?",
+        "Diskon voucher caranya?"
+      ],
+      "jawaban": "Cara menggunakan kode voucher:\n1. Tambahkan produk ke keranjang belanja\n2. Di halaman **checkout**, cari kolom **Masukkan Kode Voucher**\n3. Ketik atau paste kode voucher Anda\n4. Klik tombol **Terapkan**\n5. Diskon otomatis dipotong dari total belanja\n\n⚠️ Pastikan:\n- Voucher belum kadaluarsa\n- Memenuhi minimum pembelian\n- Produk yang dibeli sesuai syarat voucher\n- Setiap akun hanya bisa pakai 1 voucher per transaksi"
+    },
+    {
+      "id": 14,
+      "kategori": "Promo",
+      "pertanyaan": "Apakah ada program loyalitas atau poin reward?",
+      "variasi": [
+        "Ada poin reward tidak?",
+        "Program member ada?",
+        "Poin belanja bisa dapat apa?",
+        "Loyalty program bagaimana?",
+        "Cashback atau poin?"
+      ],
+      "jawaban": "Ya, kami punya **Program Reward Poin**:\n- Dapatkan **1 poin** setiap belanja Rp10.000\n- Poin bisa ditukar diskon (100 poin = Rp5.000)\n- **Tier Member**: Silver → Gold → Platinum dengan keuntungan berbeda\n- Member Gold & Platinum dapat **akses early sale**, **gratis ongkir ekstra**, dan **CS prioritas**\n- Poin berlaku selama **12 bulan** sejak diperoleh\n\nCek poin Anda di menu **Akun** → **Reward Saya**."
+    },
+    {
+      "id": 15,
+      "kategori": "Komplain",
+      "pertanyaan": "Bagaimana cara menghubungi customer service?",
+      "variasi": [
+        "Kontak CS di mana?",
+        "Nomor telepon CS?",
+        "Hubungi bantuan bagaimana?",
+        "Ada live chat tidak?",
+        "Customer support bisa dihubungi lewat apa?"
+      ],
+      "jawaban": "Hubungi Customer Service kami melalui:\n- 💬 **Live Chat**: Chatbot ini (24/7 untuk pertanyaan umum)\n- 📧 **Email**: support@tokoku.com (respons maks. 1x24 jam)\n- 📱 **WhatsApp**: 0812-3456-7890 (Senin–Minggu, 08.00–21.00 WIB)\n- 📞 **Telepon**: 021-1234-5678 (Senin–Jumat, 09.00–17.00 WIB)\n- 🐦 **Sosmed**: @tokoku_id (Instagram, Twitter/X)\n\nUntuk keluhan mendesak seperti transaksi gagal atau paket hilang, **WhatsApp** adalah cara tercepat."
+    }
+  ]
+}

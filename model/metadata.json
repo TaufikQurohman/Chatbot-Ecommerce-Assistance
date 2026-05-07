@@ -1,0 +1,17 @@
+{
+  "total_faq": 15,
+  "total_corpus": 90,
+  "total_features": 291,
+  "threshold": 0.05,
+  "ngram_range": "(1,2)",
+  "kategori": [
+    "Promo",
+    "Produk",
+    "Pembayaran",
+    "Pengembalian",
+    "Akun",
+    "Komplain",
+    "Pengiriman"
+  ],
+  "f1_score": 0.8999999995
+}
