@@ -1,4 +1,4 @@
-# 🛍️ TokoBot — FAQ Chatbot E-Commerce
+# 🛍️ Chatbot Asisten Toko Online
 
 Chatbot FAQ berbasis NLP untuk e-commerce, dibangun menggunakan TF-IDF + Cosine Similarity dengan antarmuka chat modern menggunakan Streamlit.
 
@@ -17,7 +17,7 @@ Chatbot FAQ berbasis NLP untuk e-commerce, dibangun menggunakan TF-IDF + Cosine 
 
 ## 🎯 Tentang Project
 
-TokoBot adalah chatbot FAQ end-to-end yang menjawab pertanyaan pelanggan e-commerce secara otomatis menggunakan teknik **Information Retrieval berbasis NLP**:
+Chatbot Asisten Toko Online adalah chatbot FAQ end-to-end yang menjawab pertanyaan pelanggan e-commerce secara otomatis menggunakan teknik **Information Retrieval berbasis NLP**:
 
 - **Dataset FAQ custom** — 15 topik, 7 kategori, 75+ variasi pertanyaan dalam Bahasa Indonesia
 - **Preprocessing** — normalisasi teks, stopwords removal, sinonim mapping
