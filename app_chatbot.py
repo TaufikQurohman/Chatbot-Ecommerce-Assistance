@@ -30,7 +30,21 @@ st.markdown("""
 }
 
 [data-testid="stHeader"] {
+  background: transparent !important;
+  height: 2.5rem !important;
+}
+
+/* Sidebar locked open: hide controls that collapse it. */
+[data-testid="stSidebarCollapseButton"],
+button[title="Close sidebar"],
+button[aria-label="Close sidebar"],
+button[title="Hide sidebar"],
+button[aria-label="Hide sidebar"],
+button[title="Collapse sidebar"],
+button[aria-label="Collapse sidebar"] {
   display: none !important;
+  visibility: hidden !important;
+  pointer-events: none !important;
 }
 
 .block-container {
